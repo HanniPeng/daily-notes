@@ -1,0 +1,26 @@
+name: 通知网站更新
+
+# 每次从 Obsidian 推送笔记，立即通知 hannipeng.com 重新生成文章页
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: 通知 personal-website
+        env:
+          TOKEN: ${{ secrets.BLOG_TRIGGER_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "还没有设置 BLOG_TRIGGER_TOKEN，跳过（网站会在定时检查时更新）"
+            exit 0
+          fi
+          curl -fsS -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/HanniPeng/personal-website/dispatches \
+            -d '{"event_type":"notes-updated"}'
+          echo "已通知网站更新"
