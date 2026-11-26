@@ -33,7 +33,7 @@ date: 2026-11-26
 
 我比较推荐GTM敏捷团队（Agile Team）的协作方式，借用了研发中敏捷开发的理念，又叫蜂巢组织。  
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/St5MDDkY5dwP6V2UACZNX6Hba3OTqsyQG27YXJdhR4RlPqjyWmxIiaQPWM4md2E4aZufQtowZKylsOYqficyhA09k093mpQcZ7Yn5tJnbzbgU/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=3)
+![[CleanShot 2026-11-26 at 15.50.13@2x_副本.png]]
 
 每个成员都代表着自己的部门，直接与其他部门的成员开展协作，不需要事事通过GTM负责人，也不需要层层向上汇报。
 
@@ -70,8 +70,7 @@ date: 2026-11-26
     
 
 使用过程中发现的新需求、未能回答的问题及丢单原因，又可以反馈到知识库中，持续补充和更新知识卡片。
-
-![图片](https://mmbiz.qpic.cn/mmbiz_png/St5MDDkY5dwCIZcEa5Bx1SJic3gtloibAXXic4YQuwskNpwcVjlJhMicv9pnfM4rGHKku6fB9g3QLWV3rSZjPkCCPPkZL9Z5g5jxWkDx3RaGSjA/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=4)
+![[CleanShot 2026-11-26 at 15.28.50@2x.png]]
 
 各部门既是知识的贡献者，也是知识的使用者。
 
@@ -154,7 +153,7 @@ AI时代，可以把汇报工作放在会前完成
 
 针对一类尚未得到充分满足的客户需求，说不定可以灵活组建小团队，与客户共同探索解决方案。
 
-![图片](https://mmbiz.qpic.cn/sz_mmbiz_png/St5MDDkY5dxWBWJRYkJrM3pOyGUTkH9IKyWibZPVjUXQHlJ3nRND9xgAYFlGCOfaymPiaKe8jNJEbP2axsL7eL71duTkRxxibmRudemBSRh8s8/640?wx_fmt=png&from=appmsg&tp=webp&wxfrom=5&wx_lazy=1#imgIndex=5)
+![[CleanShot 2026-11-26 at 16.10.34@2x.png]]
 
 根据需求的不同，团队的人员配置也可以有所不同，其他专业能力按需调用。
 
